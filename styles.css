@@ -1,0 +1,170 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 50px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+  padding-top: 20px;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+  padding: 0;
+}
+
+.main-header{
+  background: rgb(32, 101, 136);
+  color: white;
+  height: 450px;
+  margin: 0 auto;
+}
+
+.header-searchbar{
+  padding: 0;
+  height: 40px;
+}
+.bar-icon{
+  float: left;
+}
+.bar-icon-middle{
+  width: 50%;
+}
+
+.header-two{
+  float: left;
+  margin: 0 auto;
+  
+}
+
+.header-two h1, p, button{
+  padding-top: 2%;
+  padding-left: 30px;
+  padding-bottom: 2%
+}
+.test-img{
+  float: right;
+  
+}
+.butt-npm{
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  background-color: rgb(240, 146, 51);
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;  
+}
+.collaboration{
+  background-color: rgb(39, 53, 71);
+  color: white;
+  height: 350px;
+  margin: 0px auto;
+  padding-left: 18%;
+  padding-right: 18%;
+}
+.butt-sign{
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  background-color: rgb(203, 56, 55);
+  
+}
+.collaboration-one{
+  float: left;
+  padding: 2px 2px 2px 20px;
+
+}
+.collaboration-two{
+  float: right; 
+  margin-top: 10%;
+}
+.collaboration-two li, button, p{
+  padding-left: 5%;
+  padding-top: 10px;
+}
+.what-container{
+  background: url(/home/davidsirit/code/lab-html-module-exercise/starter-code/images/forklift.svg) 0 0 no-repeat;
+  background-size: cover;
+  height: 300px;
+  position: relative;
+  height: 300px;
+}
+.what-is-style{
+  color: white;
+  position: absolute;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding-left: 20%;
+}
+
+.butt-install{
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  background-color: rgb(49, 68, 88);
+}
+.option-one{
+  color: rgb(83, 88, 98);
+  margin: 0 auto;
+  background-color: white;
+  text-align: center;
+}
+
+.option-two{
+  color: rgb(135, 145, 156);
+  margin: 0 auto;
+  background-color: white;
+  text-align: center;
+  padding: 0 15%;
+}
+.icon-set{
+  padding-left: 7%;
+  padding-right: 7%;
+}
+.col {
+  float: left;
+}
+
+.col-3 {
+  width: 18%;
+}
+
+.col-middle {
+  margin: 0 1%;
+}
+.clear-styl{
+  text-decoration: none;
+  color: #fff;
+}
+
+.clearfix {
+  clear: both;
+}
